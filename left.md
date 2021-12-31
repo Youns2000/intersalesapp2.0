@@ -1,0 +1,16 @@
+- logo animation css starting app
+- profil email change
+- login page pwd change (forgot pwd)
+- challenges
+- admin page -> users tab -> delete
+  -> challenges -> add
+  -> delete
+  -> add flag
+  -> delete flag
+- check flag
+- jwt token lifetime
+- notifs login page
+- error handling login page
+- error reloading manualy a page
+- confirm password on login page
+- error 401 unauthorizeed logout
